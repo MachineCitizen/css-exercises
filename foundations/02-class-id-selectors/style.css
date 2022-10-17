@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.class, .cooler-class {
+    background-color: #e7abab;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
